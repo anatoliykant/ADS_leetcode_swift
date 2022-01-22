@@ -8,7 +8,7 @@ Solving Leetcode problems in Swift
 
 **Medium**
 
-- [x] [56. Merge Intervals](https://github.com/anatoliykant/ADS_leetcode_swift/edit/main/README.md#Netflix)
+- [x] [56. Merge Intervals](https://github.com/anatoliykant/ADS_leetcode_swift/blob/main/README.md#56-merge-intervals)
 
 **Hard**
 
